@@ -1,0 +1,29 @@
+.
+├── assets
+│   ├── fonts
+│   │   └── empty.ttf
+│   ├── icon
+│   │   └── empty.png
+│   └── image
+│       └── empty.png
+└── lib
+    ├── main.dart
+    ├── models
+    │   └── about_models.txt
+    ├── project_utils
+    │   ├── project_colors.dart
+    │   ├── project_icons.dart
+    │   └── project_utils.dart
+    ├── project_widgets
+    │   ├── project_appbar.dart
+    │   ├── project_text.dart
+    │   └── project_widgets.dart
+    └── screens
+        └── main_screen
+            ├── cubit
+            │   ├── cb_main_screen.dart
+            │   └── st_main_screen.dart
+            ├── main_screen.dart
+            └── main_screen_provider.dart
+
+11 directories, 15 files
